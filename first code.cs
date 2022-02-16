@@ -1,5 +1,4 @@
 using System;
-using System.Globalization;
 
 public class Program
 {
@@ -12,6 +11,7 @@ public class Program
 	  ch = char.Parse(Console.ReadLine());	
 	}
 	double n2 = double.Parse(Console.ReadLine()); 
+	
 	
 	string[] v1 = Console.ReadLine().Split(' '); //COMANDO SPLIT, usado pra dividir uma string/recortar ela em certas partes que são
 	string nome = v1[0];                         //determinadas pelo uso do caractére entre parênteses e então guardado nas posições dos vetores
