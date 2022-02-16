@@ -6,7 +6,7 @@ public class Program
 	{
 	int n1 = int.Parse(Console.ReadLine()); //converte o resultado pra int, e lê uma string que depois de convertida é guardada em n1 
 	char ch = char.Parse(Console.ReadLine()); //mesmo mas com um cararactére
-	while(ch!= 'F' && ch!= 'M' ) //while pra validar o carctéreque se refere ao gênero
+	while(ch!= 'F' && ch!= 'M' ) //while pra validar o carctére que se refere ao gênero
 	{
 	  ch = char.Parse(Console.ReadLine());	
 	}
