@@ -1,2 +1,1 @@
-Coisas interessantes do curso, talvez anotações mas principalmente exercícios.
-
+Some stuff of the C# course.
